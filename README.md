@@ -14,5 +14,5 @@
 ### Ejercicios Prácticos
 | Actividad | Objetivo | Evidencia |
 | ------------- |-------------| -----|
-|      |  |  |
+| Ejercicios Practicos de Listas | Los presentes ejercicios, fueron llevados a cabo para la retroalimentación de los temas vistos en clase. Fueron realizadas 5 actividades referentes a listas simples, dobles y circulares | [Actividad01](https://github.com/Susanca0506/GTID141/tree/e4ef01d5696dc5badb19a2bf88d6a7a6e4f4473a/Ejercicios%20Practicos/actividad01) [Actividad02](https://github.com/Susanca0506/GTID141/tree/e4ef01d5696dc5badb19a2bf88d6a7a6e4f4473a/Ejercicios%20Practicos/actividad02) [Actividad03](https://github.com/Susanca0506/GTID141/tree/e4ef01d5696dc5badb19a2bf88d6a7a6e4f4473a/Ejercicios%20Practicos/actividad03) [Actividad04](https://github.com/Susanca0506/GTID141/tree/e4ef01d5696dc5badb19a2bf88d6a7a6e4f4473a/Ejercicios%20Practicos/actividad04) [Actividad05](https://github.com/Susanca0506/GTID141/tree/e4ef01d5696dc5badb19a2bf88d6a7a6e4f4473a/Ejercicios%20Practicos/actividad05)|
 
