@@ -16,3 +16,10 @@
 | ------------- |-------------| -----|
 | Ejercicios Practicos de Listas | Los presentes ejercicios, fueron llevados a cabo para la retroalimentación de los temas vistos en clase. Fueron realizadas 5 actividades referentes a listas simples, dobles y circulares | [Actividad01](https://github.com/Susanca0506/GTID141/tree/e4ef01d5696dc5badb19a2bf88d6a7a6e4f4473a/Ejercicios%20Practicos/actividad01) [Actividad02](https://github.com/Susanca0506/GTID141/tree/e4ef01d5696dc5badb19a2bf88d6a7a6e4f4473a/Ejercicios%20Practicos/actividad02) [Actividad03](https://github.com/Susanca0506/GTID141/tree/e4ef01d5696dc5badb19a2bf88d6a7a6e4f4473a/Ejercicios%20Practicos/actividad03) [Actividad04](https://github.com/Susanca0506/GTID141/tree/e4ef01d5696dc5badb19a2bf88d6a7a6e4f4473a/Ejercicios%20Practicos/actividad04) [Actividad05](https://github.com/Susanca0506/GTID141/tree/e4ef01d5696dc5badb19a2bf88d6a7a6e4f4473a/Ejercicios%20Practicos/actividad05)|
 
+### Ejercicios de NearPod
+| Actividad | Objetivo | Evidencia |
+| ------------- |-------------| -----|
+| Listas en Java | Está actividad tuvo como finalidad comprender el funcionamiento y composición de las listas enlazadas simples, dobles y circulares. | [NearPod - Listas en java](https://github.com/Susanca0506/GTID141/blob/0b81b0b4c36a018b2e935170c06a80d8d4e06b57/Ejercicios%20Guiados/NearPod.pdf) |
+| Listas y Pilas | El objetivo de esta actividad es la comprensión de las diversas aplicaciones de las listas, arrays y arraylist en las pilas, además de entender el funcionamiento y estructura de las pilas | [NearPod - Listas y Pilas]() |
+| Colas | Además de comprender el funcionamiento, estructura e implementacipon de las colas, está actividad tuvo como objetivo principal, aprender a implementar código funcional para realizar una cola con diversas funcionalidades. | [NearPod - Colas]() |
+
