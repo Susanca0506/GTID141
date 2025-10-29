@@ -10,6 +10,8 @@
 | U2ACT3 Práctica Manual y Algorítmica Lista | Representar y comprender el funcionamiento de los distintos tipos de listas enlazadas mediante actividades manipulativas y su traducción a pseudocódigo y lenguaje de programación Java. | [Evidencia de U2ACT3](https://github.com/Susanca0506/GTID141/blob/c3557ef33f02881cbf711521847b012089cf19ba/Ejercicios%20Guiados/U2ACT3%20Pr%C3%A1ctica%20Manual%20y%20Algor%C3%ADtmica%20Lista.pdf) |
 | U2ACT2 Especificación de Pila con VisuAlgo | Comprender el funcionamiento de una pila, mediante una simulación visual interactiva, similar a aplicar platos. | [Evidencia de U2ACT2](https://github.com/Susanca0506/GTID141/blob/1f12ffbb53701a619bb5764a116a7d84ba0c270b/Ejercicios%20Guiados/U2ACT2%20Ejercicio%20de%20Pila%20con%20VisuAlgo.pdf) |
 | U2ACT2 Especificación de la Pila | Crear una pila desde cero, para comprender la sintaxis, funcionamiento y lógica de esta. | [Evidencia de U2ACT2](https://github.com/Susanca0506/GTID141/tree/0368a8a268b478f849e95ce5b0a8febefc15162d/Ejercicios%20Guiados/U2ACT2%20Especificaci%C3%B3n%20de%20la%20Pila) |
+| Ordenamiento burbuja | Actividad con el objetivo de comprender el algoritmo de Bubble Sort simulando comparaciones e intercambios con tarjetas
+numeradas o con nombres. | [Evidencia ordenamiento burbuja]() |
 
 ### Ejercicios Prácticos
 | Actividad | Objetivo | Evidencia |
